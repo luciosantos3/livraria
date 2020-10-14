@@ -6,7 +6,6 @@ import javax.enterprise.inject.Model;
 import javax.inject.Inject;
 
 import br.com.caelum.livraria.bean.service.AutorService;
-import br.com.caelum.livraria.dao.AutorDao;
 import br.com.caelum.livraria.modelo.Autor;
 
 @Model
